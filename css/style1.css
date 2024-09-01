@@ -6,7 +6,7 @@ body{
 	  font-family: "Inter", sans-serif;
 }
 .top-head{
-	background-image: url("../images/desktop.png");
+	background-image: url("/images/desktop.png");
 	background-repeat: no-repeat;
 	background-size: cover;
 	padding: 20px 0;
@@ -163,7 +163,7 @@ footer p a{
 	 	margin: 20px 0;
 	 }
 	 .top-head{
-	 	background-image: url("../images/mobile.png");
+	 	background-image: url("/images/mobile.png");
 	 	background-repeat: no-repeat;
 	 	background-size: cover;
 	 }
